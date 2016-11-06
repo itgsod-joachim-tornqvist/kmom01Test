@@ -1,14 +1,18 @@
 ---
 titleBreadcrumb: Home
 ...
-A website using Anax Flat
+My own website made using Anax flat.
 ===============================
 
-Hi there.
+Hello.
+This is my first website using Anax flat.
 
-Nice of you to stop by.
+Everything you'll see on this website is my experiment and me testing out the different parts of Anax flat and Markdown.
 
-This is a website created using Anax Flat as a base. This is the base website to be used in the dbwebb course *design*.
+<img src="../htdocs/img/me-image.jpg" alt="En bild på mig själv" style="width: 150px;">  A picture of myself.
 
-Cheers and happy building of websites,  
-/Mikael
+<div style="border: 1px solid black;">
+    <img src="../htdocs/img/me-image.jpg" alt="En bild på mig själv" style="width: 50px;">
+    <h3 style="margin-left: 65px; margin-top: -80px;">Joachim Törnqvist</h3>
+    <p style="margin-left: 65px; margin-top: -25px;">Hello, my name is, as said above: Joachim Törnqvist. I'm 19 years old currently living in Karlskrona, originally from Tullinge, Stockholm.</p>
+</div>
